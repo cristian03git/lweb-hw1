@@ -100,7 +100,7 @@ h1 {
     text-align: center;
     font-size: 0.8em;
     font-style: italic;
-    position: absolute;
+    position: relative;
     margin-top: 20px;
     margin-bottom: 0px;
 }
