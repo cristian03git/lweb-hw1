@@ -1,1 +1,4 @@
-.DS_Store       /* file che si crea se si usa un Mac */
+# .DS_Store è un file nascosto generato automaticamente da macOS
+# per salvare le impostazioni di visualizzazione delle cartelle.
+# Non è necessario nel repository e va ignorato.
+.DS_Store      
